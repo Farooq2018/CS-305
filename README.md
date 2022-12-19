@@ -1,4 +1,4 @@
-# CS-305
+# Project Summary
 Artemis Financial, a consulting company that develops individualized financial plans for their customers.
 The financial plans include savings, retirement, investments, and insurance. They wanted to modernize their operations and security plays a crucial role
 in their custom application. They reached out to us to seek expertise on how to protect their vital data from external threats.
